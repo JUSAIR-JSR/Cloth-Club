@@ -14,6 +14,7 @@ def list_all(request):
     }
     return render(request,'list_all.html',context)
 
+@login_required(login_url='login')
 def list_one(request,pk):
     product=Product.objects.get(pk=pk)
     return render(request,'list_one.html',{'product':product})
