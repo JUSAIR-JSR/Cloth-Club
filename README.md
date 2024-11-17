@@ -1,7 +1,6 @@
 ## interfaces
-
-![Screenshot (29)](https://github.com/user-attachments/assets/a0ad0023-256e-46cb-847a-c78e3ca1a0b9)
-![Screenshot (30)](https://github.com/user-attachments/assets/704b03cd-7c0f-45f3-ae8e-7df84272c6d5)
-![Screenshot (31)](https://github.com/user-attachments/assets/a6eddcc5-13fc-4767-a183-57605b05a3c4)
-![Screenshot (32)](https://github.com/user-attachments/assets/da79c49c-fc60-4191-a9bb-3e4bacf4a070)
-![Screenshot (33)](https://github.com/user-attachments/assets/c5c38cc4-e0d2-42fa-8ac2-df7f83485e19)
+![Screenshot (29)](https://github.com/user-attachments/assets/3aec1d7c-9ef2-44b4-aa6e-bba857d1d66a)
+![Screenshot (30)](https://github.com/user-attachments/assets/8ffbaf44-d96a-4d37-acbf-33fafcf90c63)
+![Screenshot (31)](https://github.com/user-attachments/assets/2f8b7cb3-055f-440c-9140-d74ef96705eb)
+![Screenshot (32)](https://github.com/user-attachments/assets/2db8809d-f85e-4e62-9a80-09154acf7086)
+![Screenshot (33)](https://github.com/user-attachments/assets/a3941db2-b0bf-47e1-84ee-4f8bf70366be)
