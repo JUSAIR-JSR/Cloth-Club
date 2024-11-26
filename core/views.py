@@ -9,6 +9,10 @@ def Home(request):
 # @login_required(login_url='login')
 def list_all(request):
     all_products=Product.objects.all()
+    if request.method=="GET":
+        searchresults=request.GET.get('SearchResult')
+        if searchresults!=None:
+                all_products=Product.objects.filter(product_name__icontains=searchresults)
     context={
         'all_products':all_products
     }

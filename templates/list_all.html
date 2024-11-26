@@ -4,7 +4,16 @@
   {% block content %}
 
 <section class="text-gray-600 body-font">
+
+  <div class="flex justify-center mt-40 md:border-green-600">
+    <form method="get">
+      <input type="text" name="SearchResult" value="" class=" rounded-md border-pink-500 max-sm:w-40 max-md:w-96 lg:w-72 xl:w-96 2xl:max-w-md"/>
+      <input type="submit" value="search" class="bg-pink-400 text-white w-20 h-10 rounded-lg font-bold md:h-full  ">
+    </form>
+  </div>
+
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
+
     {% for product in all_products %}
     <div class="flex flex-wrap -m-4">
       
@@ -41,6 +50,8 @@
         
         
       </div>
+      {% empty %}
+      No Data found
       {% endfor %}
     </div>
   </section>
